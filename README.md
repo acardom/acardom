@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Full Stack | Especialista en IA & Big Data
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d1ff&height=200&section=header&text=Alberto%20Cárdeno&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1ff&height=200&section=header&text=Alberto%20Cardeno&fontSize=70&animation=fadeIn" />
 </p>
 
 ## 👨‍💻 Sobre mí
