@@ -6,10 +6,10 @@
 </p>
 
 ## 👨‍💻 Sobre mí
-- 🎓 **Máster en Inteligencia Artificial y Big Data** (Cámara de Comercio de Sevilla)[cite: 48].
-- 🛠️ Desarrollador Full Stack Junior con experiencia en **Java, JavaScript, PHP y SQL**[cite: 5].
-- 📱 Especialista en **soluciones móviles (Flutter)** y **APIs escalables**[cite: 5, 14].
-- 📍 Basado en **Sevilla, España**[cite: 16].
+- 🎓 **Máster en Inteligencia Artificial y Big Data** (Cámara de Comercio de Sevilla).
+- 🛠️ Desarrollador Full Stack Junior con experiencia en **Java, JavaScript, PHP y SQL**.
+- 📱 Especialista en **soluciones móviles (Flutter)** y **APIs escalables**.
+- 📍 Basado en **Sevilla, España**.
 
 ---
 
@@ -21,19 +21,15 @@
 </p>
 
 ### 🏗️ Frameworks y Librerías
+
+### 💻 Lenguajes y Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tailwind,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css,sass,react,tailwind,bootstrap" />
 </p>
 
-### 🤖 Inteligencia Artificial & Data (En aprendizaje)
+### ⚙️ Backend, IA y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" />
-  [cite_start]<span><b>+ Pandas, NumPy, Deep Learning</b></span> [cite: 44]
-</p>
-
-### 🗄️ Bases de Datos y Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,docker,postman,figma,unity,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,tensorflow,sklearn,git,github,docker,postman,figma,unity" />
 </p>
 
 ### ⚙️ Otros & Metodologías
