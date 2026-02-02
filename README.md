@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mí
 - 🎓 **Máster en Inteligencia Artificial y Big Data** en la Escuela de Negocios de la Cámara de Comercio de Sevilla.
 - 🛠️ Desarrollador Full Stack Junior especializado en aplicaciones web y móviles eficientes.
-- 📍 Basado en **Sevilla, España**.
+- 📍 **Sevilla, España**.
 
 ---
 
