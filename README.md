@@ -88,5 +88,5 @@
   <a href="mailto:cardenoalberto@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/English-7/10-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
