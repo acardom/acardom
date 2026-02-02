@@ -59,12 +59,12 @@
 
 ### ⚙️ Otros Conocimientos & Metodologías
 <p align="left">
-  <img src="https://img.shields.io/badge/APIs_REST-68a063?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservicios-FF6C37?style=for-the-badge&logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-222C37?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-4B858D?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-F7E018?style=for-the-badge&logo=json&logoColor=black" />
-  <img src="https://img.shields.io/badge/XML-7F52FF?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs_REST-68a063?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservicios-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-222C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-4B858D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-F7E018?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/XML-7F52FF?style=for-the-badgel&logoColor=white" />
 </p>
 
 ---
