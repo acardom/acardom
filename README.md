@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Full Stack | IA & Big Data
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%10Cardeno&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cardeno&theme=tokyonight" />
 </p>
 
 ## 👨‍💻 Sobre mí
