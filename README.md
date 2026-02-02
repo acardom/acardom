@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
 ### 🚀 Desarrollador Full Stack | Especialista en IA & Big Data
 
-<p align="center">
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cardeno&theme=tokyonight" />
 </p>
 
