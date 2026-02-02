@@ -39,10 +39,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acardom&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acardom&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🔗 Contacto y Redes
@@ -59,4 +55,4 @@
 </p>
 
 <br />
-<p align="center"><i>"Transformando ideas en código eficiente y soluciones innovadoras"</i> [cite: 7]</p>
+<p align="center"><i>"Transformando ideas en código eficiente y soluciones innovadoras"</i></p>
