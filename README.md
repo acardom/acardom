@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/MVC-222C37?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-4B858D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-F7E018?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/XML-7F52FF?style=for-the-badgel&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-7F52FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
