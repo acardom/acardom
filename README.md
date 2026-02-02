@@ -13,10 +13,10 @@
 ---
 
 ## 💼 Experiencia Profesional
-- **Desarrollador Fullstack** | [cite_start]**Freelancer** (06/2025 - 10/2025) [cite: 2][cite_start]: Desarrollo de soluciones creativas con Flutter, Java, JS y PHP.
-- **Desarrollador Fullstack** | [cite_start]**Quantum Solution** (03/2025 - 06/2025) [cite: 2][cite_start]: Liderazgo de equipo, gestión de CMS y creación de APIs.
-- **Desarrollador Web** | [cite_start]**Quantika14** (09/2023 - 12/2023) [cite: 2][cite_start]: Desarrollo de sitios dinámicos y plugins personalizados para WordPress.
-- **Técnico Informático** | [cite_start]**Informaticasa** (03/2021 - 06/2021) [cite: 2][cite_start]: Mantenimiento de equipos y configuración de redes locales.
+- **Desarrollador Fullstack** | **Freelancer** (06/2025 - 10/2025) : Desarrollo de soluciones creativas con Flutter, Java, JS y PHP.
+- **Desarrollador Fullstack** | **Quantum Solution** (03/2025 - 06/2025) : Liderazgo de equipo, gestión de CMS y creación de APIs.
+- **Desarrollador Web** | **Quantika14** (09/2023 - 12/2023) : Desarrollo de sitios dinámicos y plugins personalizados para WordPress.
+- **Técnico Informático** | **Informaticasa** (03/2021 - 06/2021) : Mantenimiento de equipos y configuración de redes locales.
 
 ---
 
