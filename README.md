@@ -47,8 +47,8 @@
 
 ### 🤖 Inteligencia Artificial & Big Data (Learning...)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pandas,numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/s-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
