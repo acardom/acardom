@@ -26,7 +26,7 @@
 </p>
 
 ### ⚙️ Otros & Metodologías
-- **Testing:** JUnit[cite: 44].
+- **Testing:** JUnit.
 - **Arquitectura:** MVC, Microservicios, APIs REST.
 - **Agile:** Scrum, Kanban.
 - **Formatos:** JSON, XML.
@@ -59,4 +59,4 @@
 </p>
 
 <br />
-[cite_start]<p align="center"><i>"Transformando ideas en código eficiente y soluciones innovadoras"</i> [cite: 7]</p>
+<p align="center"><i>"Transformando ideas en código eficiente y soluciones innovadoras"</i> [cite: 7]</p>
