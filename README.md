@@ -13,23 +13,44 @@
 
 ---
 
-## 🛠️ Mi Stack Tecnológico (Skills Detalladas)
+## 🛠️ Mi Stack Tecnológico (Detallado por Categorías)
 
-### 💻 Lenguajes y Frontend
+### 💻 Lenguajes de Programación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css,sass,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css" />
 </p>
+[cite_start]*Experto en Java (9/10), JavaScript (10/10) y PL/SQL (10/10)*.
 
-### ⚙️ Backend, IA y Herramientas
+### 🏗️ Frameworks y Librerías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,tensorflow,sklearn,git,github,docker,postman,figma,unity" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,sass,jquery" />
+  <img src="https://skillicons.dev/icons?i=flutter" /> 
 </p>
+[cite_start]*Especialista en React (9/10), Tailwind (9.5/10) y Flutter (9/10)*.
 
-### ⚙️ Otros & Metodologías
-- **Testing:** JUnit.
-- **Arquitectura:** MVC, Microservicios, APIs REST.
-- **Agile:** Scrum, Kanban.
-- **Formatos:** JSON, XML.
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle" />
+</p>
+[cite_start]*Dominio total de MySQL y Oracle Database (10/10)*.
+
+### 🤖 Inteligencia Artificial & Big Data (Learning...)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
+</p>
+[cite_start]*Formación en Machine Learning, Deep Learning, Pandas y NumPy*.
+
+### 🧰 Herramientas de Desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,postman,figma,unity,eclipse" />
+</p>
+[cite_start]*Uso diario de Git/GitHub, VS Code y metodologías Agile/Scrum*.
+
+### ⚙️ Otros Conocimientos
+- [cite_start]**Arquitectura:** MVC, Microservicios y APIs REST.
+- [cite_start]**Formatos:** JSON (9.5/10) y XML (10/10).
+- [cite_start]**Testing:** Junit (8/10).
+- [cite_start]**Idiomas:** Inglés (Nivel 7/10).
 
 ---
 
