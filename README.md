@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Full Stack | Especialista en IA & Big Data
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1ff&height=200&section=header&text=Alberto%20Cardeno&fontSize=70&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cardeno&theme=tokyonight" />
 </p>
 
 ## 👨‍💻 Sobre mí
@@ -37,10 +37,10 @@
 </p>
 
 ### ⚙️ Otros & Metodologías
-- [cite_start]**Testing:** JUnit[cite: 44].
-- [cite_start]**Arquitectura:** MVC, Microservicios, APIs REST.
-- [cite_start]**Agile:** Scrum, Kanban.
-- [cite_start]**Formatos:** JSON, XML.
+- **Testing:** JUnit[cite: 44].
+- **Arquitectura:** MVC, Microservicios, APIs REST.
+- **Agile:** Scrum, Kanban.
+- **Formatos:** JSON, XML.
 
 ---
 
