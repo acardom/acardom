@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
 ### 🚀 Desarrollador Full Stack | IA & Big Data
 
-<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cárdeno&theme=tokyonight" /></p>
+<p style="max-height:110px;"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cárdeno&theme=tokyonight" /></p>
 
 ## 👨‍💻 Sobre mí
 - 🎓 **Máster en Inteligencia Artificial y Big Data** en la Escuela de Negocios de la Cámara de Comercio de Sevilla.
