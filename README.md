@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
-### 🚀 Desarrollador Full Stack | IA & Big Data Student
+### 🚀 Desarrollador Full Stack | IA & Big Data
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cardeno&theme=tokyonight" />
@@ -48,8 +48,8 @@
 ### 🤖 Inteligencia Artificial & Big Data
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" />
 </p>
 
 ### 🧰 Herramientas de Desarrollo
