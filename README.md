@@ -6,10 +6,10 @@
 </p>
 
 ## 👨‍💻 Sobre mí
-- [cite_start]🎓 **Máster en Inteligencia Artificial y Big Data** (Cámara de Comercio de Sevilla)[cite: 48].
-- [cite_start]🛠️ Desarrollador Full Stack Junior con experiencia en **Java, JavaScript, PHP y SQL**[cite: 5].
-- [cite_start]📱 Especialista en **soluciones móviles (Flutter)** y **APIs escalables**[cite: 5, 14].
-- [cite_start]📍 Basado en **Sevilla, España**[cite: 16].
+- 🎓 **Máster en Inteligencia Artificial y Big Data** (Cámara de Comercio de Sevilla)[cite: 48].
+- 🛠️ Desarrollador Full Stack Junior con experiencia en **Java, JavaScript, PHP y SQL**[cite: 5].
+- 📱 Especialista en **soluciones móviles (Flutter)** y **APIs escalables**[cite: 5, 14].
+- 📍 Basado en **Sevilla, España**[cite: 16].
 
 ---
 
