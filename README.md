@@ -6,9 +6,9 @@
 </p>
 
 ## 👨‍💻 Sobre mí
-- [cite_start]🎓 **Máster en Inteligencia Artificial y Big Data** en la Escuela de Negocios de la Cámara de Comercio de Sevilla.
-- [cite_start]🛠️ Desarrollador Full Stack Junior especializado en aplicaciones web y móviles eficientes.
-- [cite_start]📍 Basado en **Sevilla, España**.
+- 🎓 **Máster en Inteligencia Artificial y Big Data** en la Escuela de Negocios de la Cámara de Comercio de Sevilla.
+- 🛠️ Desarrollador Full Stack Junior especializado en aplicaciones web y móviles eficientes.
+- 📍 Basado en **Sevilla, España**.
 
 ---
 
@@ -48,7 +48,7 @@
 ### 🤖 Inteligencia Artificial & Big Data (Learning...)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/s-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
