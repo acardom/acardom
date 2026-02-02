@@ -1,51 +1,40 @@
 # 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
-### 🚀 Full Stack Junior Developer | Especialista en Java, JS, PHP y Flutter
+### Full Stack Junior Developer | IA & Big Data Student
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1ff&height=200&section=header&text=Alberto%20Cárdeno&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d1ff&height=150&section=header&text=Alberto%20Cárdeno&fontSize=50&animation=fadeIn" />
 </p>
 
-## 👨‍💻 Sobre Mí
-- [cite_start]🎓 **Máster en Inteligencia Artificial y Big Data** (en curso - Cámara de Comercio de Sevilla)[cite: 6, 48].
-- [cite_start]🛠️ Experiencia profesional en desarrollo **Full Stack** y gestión de **CMS**[cite: 17, 21].
-- [cite_start]📱 Especializado en crear aplicaciones web y móviles eficientes y escalables[cite: 5].
-- [cite_start]🌍 Residente en **Sevilla, España**[cite: 16].
-
----
-
-## 🛠️ Tecnologías y Herramientas (Mis Skills)
-
-### 💻 Lenguajes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css" />
-</p>
-
-### 🏗️ Frameworks y Librerías
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,tailwind,sass,unity" />
-</p>
-
-### 🗄️ Bases de Datos y Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,androidstudio,docker,postman,figma" />
-</p>
-
----
-
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acardom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acardom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=acardom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acardom&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardenoalberto&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acardom&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🛠️ Stack Tecnológico (Basado en mi experiencia)
+
+**💻 Lenguajes y Frontend**
+![Skills](https://skillicons.dev/icons?i=java,js,php,py,dart,ts,html,css,sass,react,flutter,tailwind)
+
+**⚙️ Backend y Bases de Datos**
+![Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,firebase,oracle)
+
+**🧰 Herramientas y Otros**
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,postman,figma,unity)
 
 ---
 
-## 🔗 Conectemos
+## 👨‍💻 Sobre mí
+* [cite_start]**Formación**: Actualmente cursando Máster en IA y Big Data[cite: 6, 47].
+* [cite_start]**Experiencia**: Desarrollador Full Stack con experiencia en Java, JavaScript, PHP y SQL[cite: 5, 40].
+* [cite_start]**Proyectos**: Especializado en aplicaciones web y móviles escalables[cite: 5].
+* [cite_start]**Ubicación**: Sevilla, España[cite: 16, 52].
+
+## 🔗 Contacto
 <p align="left">
   <a href="https://cardenoalberto.es" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00d1ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -57,6 +46,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<br />
-[cite_start]<p align="center"><i>"Apasionado por el aprendizaje continuo y la optimización de código"</i> [cite: 7]</p>
