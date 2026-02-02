@@ -1,25 +1,4 @@
 # 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
-### 🚀 Desarrollador Full Stack | Especialista en IA & Big Data
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Transforming%20ideas%20into%20efficient%20code%20and%20innovative%20solutions&author=Alberto%20Cardeno&theme=tokyonight" />
-</p>
-
-## 👨‍💻 Sobre mí
-- 🎓 **Máster en Inteligencia Artificial y Big Data** (Cámara de Comercio de Sevilla).
-- 🛠️ Desarrollador Full Stack Junior con experiencia en **Java, JavaScript, PHP y SQL**.
-- 📱 Especialista en **soluciones móviles (Flutter)** y **APIs escalables**.
-- 📍 Basado en **Sevilla, España**.
-
----
-
-Aquí tienes el código completo y definitivo para tu README.md. He organizado todas las secciones siguiendo exactamente la estructura de tu archivo Skills.jsx y los datos de tu CV.
-
-He sustituido todo el texto de las habilidades por iconos visuales (imágenes) y he corregido el error del banner para que use una versión estática de alta calidad que no falla.
-
-Copia y pega este código:
-Markdown
-# 👋 ¡Hola! Soy Alberto Cárdeno Domínguez
 ### 🚀 Full Stack Junior Developer | IA & Big Data Student
 
 <p align="center">
@@ -80,22 +59,19 @@ Markdown
   <img src="https://img.shields.io/badge/Agile_Scrum-25a162?style=for-the-badge&logo=scrum-alliance&logoColor=white" />
   <img src="https://img.shields.io/badge/JUNIT-25a162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
----
-
-## 📊 Estadísticas de GitHub (acardom)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=acardom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acardom&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
-## 🔗 Contacto y Redes
+## 💼 Experiencia Reciente
+- [cite_start]**Quantum Solution**: Desarrollador Fullstack (Liderazgo de equipo y APIs)[cite: 15, 17, 21].
+- [cite_start]**Quantika14**: Desarrollador Web (WordPress Plugins y PHP)[cite: 26, 29, 31].
+
+## 🔗 Contacto
 <p align="left">
-  <a href="https://cardenoalberto.es" target="_blank">
+  <a href="https://cardenoalberto.es">
     <img src="https://img.shields.io/badge/Portfolio-00d1ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alberto-cardeno-dominguez" target="_blank">
+  <a href="https://www.linkedin.com/in/alberto-cardeno-dominguez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cardenoalberto@gmail.com">
@@ -103,5 +79,6 @@ Markdown
   </a>
 </p>
 
-<br />
-<p align="center"><i>"Transformando ideas en código eficiente y soluciones innovadoras"</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Inglés-7/10-blue?style=flat-square&logo=google-translate&logoColor=white" />
+</p>
