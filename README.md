@@ -15,13 +15,6 @@
 
 ## 🛠️ Mi Stack Tecnológico (Skills Detalladas)
 
-### 💻 Lenguajes de Programación
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css,sass" />
-</p>
-
-### 🏗️ Frameworks y Librerías
-
 ### 💻 Lenguajes y Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,php,py,kotlin,dart,ts,html,css,sass,react,tailwind,bootstrap" />
